@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frasesBreakingBad/static/css/main.84f32007.chunk.css",
+    "main.js": "/frasesBreakingBad/static/js/main.e1652a7b.chunk.js",
+    "main.js.map": "/frasesBreakingBad/static/js/main.e1652a7b.chunk.js.map",
+    "runtime-main.js": "/frasesBreakingBad/static/js/runtime-main.82eac15c.js",
+    "runtime-main.js.map": "/frasesBreakingBad/static/js/runtime-main.82eac15c.js.map",
+    "static/js/2.1153efb7.chunk.js": "/frasesBreakingBad/static/js/2.1153efb7.chunk.js",
+    "static/js/2.1153efb7.chunk.js.map": "/frasesBreakingBad/static/js/2.1153efb7.chunk.js.map",
+    "index.html": "/frasesBreakingBad/index.html",
+    "precache-manifest.e1a624c6208679716216c69e2f83b5b7.js": "/frasesBreakingBad/precache-manifest.e1a624c6208679716216c69e2f83b5b7.js",
+    "service-worker.js": "/frasesBreakingBad/service-worker.js",
+    "static/css/main.84f32007.chunk.css.map": "/frasesBreakingBad/static/css/main.84f32007.chunk.css.map",
+    "static/js/2.1153efb7.chunk.js.LICENSE.txt": "/frasesBreakingBad/static/js/2.1153efb7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frasesBreakingBad/static/media/logo.427a4adc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82eac15c.js",
+    "static/js/2.1153efb7.chunk.js",
+    "static/css/main.84f32007.chunk.css",
+    "static/js/main.e1652a7b.chunk.js"
+  ]
+}
