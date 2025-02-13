@@ -7,7 +7,7 @@ function App() {
 
   const consultarAPI = () =>{
     
-    const api = fetch('https://breaking-bad-quotes.herokuapp.com/v1/quotes');
+    const api = fetch('https://api.breakingbadquotes.xyz/v1/quotes');
     console.log(api);
     const frase = api.then(respuesta=>respuesta.json());
     frase.then(resultado=>setFrase(resultado[0]));
